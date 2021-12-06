@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgeGor15
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... (i'm new here)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Telegram: @GeorgeGor15

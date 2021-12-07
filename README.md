@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeGor15
+- 👋 Hi, I’m George
 - 👀 I’m interested in ... (i'm new here)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
